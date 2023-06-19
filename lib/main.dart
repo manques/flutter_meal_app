@@ -1,11 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_meal_app/app.dart';
 
 void main() {
-  runApp(
-    const MaterialApp(
-      home: Scaffold(
-        body: Text('Meal App'),
-      ),
-    ),
-  );
+  runApp(const App());
 }
