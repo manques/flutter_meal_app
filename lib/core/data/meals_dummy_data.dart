@@ -1,4 +1,4 @@
-import 'package:flutter_meal_app/models/meal.dart';
+import 'package:flutter_meal_app/shared/models/meal.dart';
 
 const mealsDummyData = [
   Meal(
